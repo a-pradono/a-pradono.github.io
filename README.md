@@ -1,2 +1,2 @@
-# a-pradono.github.io
-Data science and analytics portfolio website
+## About
+Personal website of data science and analytics portfolio
